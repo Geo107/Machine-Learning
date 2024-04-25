@@ -20,7 +20,7 @@ The dataset used for training and evaluation is the historical stock price data 
 1. Clone this repository:
 
     ```
-    git clone https://github.com/Geo107/Machine-Learning/tree/main/Google%20Stock%20Prediction
+    git clone https://github.com/Geo107/Machine-Learning/tree/main/Google%20Stock%20Prediction.git
     ```
 
 2. Install the required Python packages:
