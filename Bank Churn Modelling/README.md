@@ -20,7 +20,7 @@ The dataset used for training and evaluation is the [Churn_Modelling.csv], which
 1. Clone this repository:
 
     ```
-    git clone https://github.com/your-username/bank-churn-ann.git
+    git clone https://github.com/Geo107/Machine-Learning/tree/main/Bank Churn Modelling.git
     ```
 
 2. Install the required Python packages:
