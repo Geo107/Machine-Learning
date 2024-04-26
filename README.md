@@ -4,12 +4,12 @@ Welcome to my machine learning projects repository! Here you'll find a collectio
 
 ## Table of Contents
 
-1. [Project 1: Bank Churn Modelling](#https://github.com/Geo107/Machine-Learning/Bank%20Churn%20Modelling)
+1. [Project 1: Bank Churn Modelling](#project-1-Bank-Churn-Modelling)
 2. [Project 2: Credit Card Fraud Detection](#project-2-project-name)
 3. [Project 3: Google Stock Price Predicton](#project-3-project-name)
    ...
 
-## Project 1: Project Name
+## Project 1: Bank Churn Modelling
 
 **Description:** Brief description of the project. Mention its purpose, dataset used, and key techniques applied.
 
