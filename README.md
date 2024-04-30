@@ -26,7 +26,7 @@ Welcome to my machine learning projects repository! Here you'll find a collectio
 - Matplotlib / Seaborn
 - Jupyter Notebooks / IDEs
 
-**Code:** [GitHub Repository](https://github.com/Geo107/Machine-Learning/Bank-Churn-Modelling)
+**Code:** [Bank Churn Modelling](https://github.com/Geo107/Machine-Learning/)
 
 ## Project 2: Credit Card Fraud Detection
 
