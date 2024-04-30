@@ -48,29 +48,27 @@ Welcome to my machine learning projects repository! Here you'll find a collectio
 
 ## Project 3: Google Stock Price Prediction
 
-**Description:** Brief description of the project. Mention its purpose, dataset used, and key techniques applied.
+**Description:** This project aims to predict future stock prices of Google using a Recurrent Neural Network (RNN). By leveraging historical stock price data and potentially other relevant features, the model seeks to forecast the trajectory of Google's stock prices.
 
 **Features:**
-- Feature 1
-- Feature 2
-- ...
+- Historical stock prices: Key data for training the recurrent neural network model.
+- Volume of trades: Indicates market activity and liquidity, influencing price movements.
+- Market sentiment: Sentiment analysis of news and social media can affect stock prices.
+- Economic indicators: Factors like GDP, interest rates, and unemployment rates may influence stock prices.
 
-**Technologies Used:** List the key technologies, libraries, and tools used in the project.
+**Technologies Used:** 
+- Python
+- TensorFlow / Keras
+- Pandas / NumPy
+- Matplotlib / Seaborn
 
-**Code:** Link to the project's code repository or notebook.
-
-**Demo:** (Optional) Link to a demo or live version of the project, if available.
-
+**Code:** [Google Stock Price Prediction](https://github.com/Geo107/Machine-Learning/)
 ...
 
 ## Contributing
 
-If you'd like to contribute to any of the projects, feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-Include information about the license your projects are released under.
+If you'd like to contribute to any of the projects, feel free to fork the repository, make your changes.
 
 ## About Me
 
-Brief introduction about yourself, your expertise in machine learning, and any other relevant information.
+I am an engineering student pursuing B.Tech (CSE).
